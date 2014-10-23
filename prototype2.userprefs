@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/InventoryExample.cs">
+    <Files>
+      <File FileName="Assets/Inventory.cs" Line="18" Column="11" />
+      <File FileName="Assets/IItem.cs" Line="20" Column="21" />
+      <File FileName="Assets/ItemExample.cs" Line="32" Column="30" />
+      <File FileName="Assets/InventoryExample.cs" Line="5" Column="68" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
